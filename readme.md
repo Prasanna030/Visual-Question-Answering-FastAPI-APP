@@ -1,6 +1,6 @@
 # Visual Question Answering Application
 
-A Docker containerizable web application that performs Visual Question Answering (VQA) using the ViLT model from Hugging Face. The application allows users to upload an image and ask questions about it, receiving AI-generated answers in real-time.
+A Docker containerizable web application that performs Visual Question Answering (VQA) using the ViLT model from Hugging Face. The application allows users to upload an image and ask questions about it, receiving AI-generated answers in real-time.Did this project to explore deployment of ML Models using FastAPI and Docker.
 
 ## Features
 
